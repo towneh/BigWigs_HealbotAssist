@@ -21,3 +21,8 @@ then tells him to heal next.
 The mod wants a healer channel to output messages like "X healed - X is next!"
 to. You have to set this channel with /bwhba setchannel <channelname> before the
 encounter starts or you will get spammed about it.
+
+## Authors
+Original addon created and developed by Rabbit.
+
+Updated here for use with 1.12.1 on Light's Hope project realms by Towneh.
