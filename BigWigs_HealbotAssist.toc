@@ -1,4 +1,4 @@
-## Interface: 20000
+## Interface: 11200
 
 ## Title: Big Wigs |cffff0000+|r|cffffffffHealbot Assist|r
 ## TiTle-zhCN: |cff7fff7f-Ace2-|r Big Wigs Healbot Assist 
